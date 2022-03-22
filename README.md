@@ -1,5 +1,3 @@
 
-# Template
-Template repo for projects using SDL
+# Circle Animation
 For buid script: code->build.ps1
-
